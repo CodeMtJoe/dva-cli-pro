@@ -1,6 +1,6 @@
 {
   "name": "dva-cli-pro",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "自定义的dva的脚手架",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
     "handlebars": "^4.7.6",
     "inquirer": "^6.2.2",
     "ora": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeMtJoe/dva-cli-pro.git"
   }
 }
