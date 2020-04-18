@@ -1,0 +1,23 @@
+{
+  "name": "dva-cli-pro",
+  "version": "1.0.1",
+  "description": "自定义的dva的脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jt": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.7.6",
+    "inquirer": "^6.2.2",
+    "ora": "^3.2.0"
+  }
+}
