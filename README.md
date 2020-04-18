@@ -2,6 +2,7 @@
 
 ## 使用说明
 ```npm install dva-cli-pro -g```
+然后输入jt 即可查看命令
 ```
 Options:
   -v, --version  output the version number
