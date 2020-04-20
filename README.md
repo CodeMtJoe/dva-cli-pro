@@ -1,11 +1,7 @@
 # Dva-cli-pro
 🛠️一个快速生成初始化dva模板的工具
 
-[💎初始化模板]: https://github.com/CodeMtJoe/dva-pro
-
-
-
-
+[💎初始化模板](https://github.com/CodeMtJoe/dva-pro)
 
 ## 使用说明
 可以使用下列命令全局安装这个包：
