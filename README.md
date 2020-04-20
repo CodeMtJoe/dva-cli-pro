@@ -1,8 +1,10 @@
-# 自定义dva框架
-
+# Dva-cli-pro
+🛠️一个快速生成初始化dva模板的工具
 ## 使用说明
+可以使用下列命令全局安装这个包：
 ```npm install dva-cli-pro -g```
-然后输入jt 即可查看命令
+在终端里任意目录下输入```jt init 项目名称```即可快速生成初始化模板
+输入jt 即可查看命令
 ```
 Options:
   -v, --version  output the version number
